@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Genetic Algorithm</string>
+    <string name="target">Target :</string>
+    <string name="population_max">Pop Max :</string>
+    <string name="mutation_rate">Mutation Rate:</string>
+    <string name="generations">Generations :</string>
+    <string name="phrases">All Phrases</string>
+    <string name="buGenerate">Generate</string>
+    <string name="best_answer">Best Answer</string>
+</resources>
